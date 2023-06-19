@@ -33,4 +33,5 @@ def strcounter(s): # O(N)
     for sym, count in syms_counter.items():
         print(sym, count)   
         
-strcounter("aaabbbbccd")     
+strcounter("aaabbbbccd")
+strcounter("bpvtytybz")     
